@@ -1,13 +1,13 @@
-# Õâ¸öÊÇÎÒµÄ¿ªÔ´ pyside6 + yolov5+active-learningÏîÄ¿£¬»¶Ó­ star![395494A6.png](https://cdn.nlark.com/yuque/0/2024/png/34454554/1714980244561-4f46267d-25f0-4a03-9b8a-2bf4de7d3b58.png#averageHue=%2354472a&clientId=u04ab15bb-705b-4&from=paste&height=48&id=u2733e641&originHeight=48&originWidth=48&originalType=binary&ratio=1&rotation=0&showTitle=false&size=2823&status=done&style=none&taskId=u243c43ab-fa0c-4a3d-99b2-db8ba5a2e5f&title=&width=48) and follow!
+# è¿™ä¸ªæ˜¯æˆ‘çš„å¼€æº pyside6 + yolov5+active-learningé¡¹ç›®ï¼Œæ¬¢è¿ star![395494A6.png](https://cdn.nlark.com/yuque/0/2024/png/34454554/1714980244561-4f46267d-25f0-4a03-9b8a-2bf4de7d3b58.png#averageHue=%2354472a&clientId=u04ab15bb-705b-4&from=paste&height=48&id=u2733e641&originHeight=48&originWidth=48&originalType=binary&ratio=1&rotation=0&showTitle=false&size=2823&status=done&style=none&taskId=u243c43ab-fa0c-4a3d-99b2-db8ba5a2e5f&title=&width=48) and follow!
 
-# ÏîÄ¿½éÉÜ
+# é¡¹ç›®ä»‹ç»
 
-ÎÒ°ÑÒ»Ğ©ÎÄ¼ş¸øÉ¾µôÁË ÀıÈçsegement Ê²Ã´µÄ <br />¿ÉÒÔÔÚÔ­ÉúµÄyolov5 7.0ÖØĞÂ°²×°<br />×îÖ÷ÒªµÄ¾ÍÊÇÁ½¸öÎÄ¼ş<br />·Ö±ğÊÇui.py
-MainQt.py<br />Ö±½ÓÔËĞĞMainQt.py¼´¿É<br />×îÖ÷ÒªµÄptÎÄ¼ş¾ÍÊÇdata/models/biology.pt<br />
-ÕâÊÇÓÃyolov5¿ò¼Ü+Ö÷¶¯Ñ§Ï°ÅÜ³öÀ´µÄÍâÖÜÑªÏ¸°ûµÄÄ£ĞÍ<br />Ä¿Ç°¾«¶È0.8 ¾«¶È½Ï¸ß<br />²¢ÇÒÖ§³ÖÇĞ»»Ä£ĞÍ ÇĞ»»µ½Ô­ÉúµÄyolov5m.pt
-Ö§³Ö¶ÔÆäËûÄ¿±ê½øĞĞÊ¶±ğ<br />![](https://github.com/huange888/yolov5_7.0_pyside6_active_learning/assets/118048444/165a5c67-7a64-4cd3-8ed2-0292cab780e9#id=UtZd0&originHeight=823&originWidth=1376&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+æˆ‘æŠŠä¸€äº›æ–‡ä»¶ç»™åˆ æ‰äº† ä¾‹å¦‚segement ä»€ä¹ˆçš„ <br />å¯ä»¥åœ¨åŸç”Ÿçš„yolov5 7.0é‡æ–°å®‰è£…<br />æœ€ä¸»è¦çš„å°±æ˜¯ä¸¤ä¸ªæ–‡ä»¶<br />åˆ†åˆ«æ˜¯ui.py
+MainQt.py<br />ç›´æ¥è¿è¡ŒMainQt.pyå³å¯<br />æœ€ä¸»è¦çš„ptæ–‡ä»¶å°±æ˜¯data/models/biology.pt<br />
+è¿™æ˜¯ç”¨yolov5æ¡†æ¶+ä¸»åŠ¨å­¦ä¹ è·‘å‡ºæ¥çš„å¤–å‘¨è¡€ç»†èƒçš„æ¨¡å‹<br />ç›®å‰ç²¾åº¦0.8 ç²¾åº¦è¾ƒé«˜<br />å¹¶ä¸”æ”¯æŒåˆ‡æ¢æ¨¡å‹ åˆ‡æ¢åˆ°åŸç”Ÿçš„yolov5m.pt
+æ”¯æŒå¯¹å…¶ä»–ç›®æ ‡è¿›è¡Œè¯†åˆ«<br />![](https://github.com/huange888/yolov5_7.0_pyside6_active_learning/assets/118048444/165a5c67-7a64-4cd3-8ed2-0292cab780e9#id=UtZd0&originHeight=823&originWidth=1376&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
-# ÔËĞĞ»·¾³
+# è¿è¡Œç¯å¢ƒ
 
 ```python
 pip
@@ -15,69 +15,69 @@ install - r
 requirements.txt
 ```
 
-# ÔËĞĞ·½·¨
+# è¿è¡Œæ–¹æ³•
 
 ```python
 python
 MainQt.py
 ```
 
-# ÏîÄ¿½ØÍ¼
+# é¡¹ç›®æˆªå›¾
 
 ![](https://github.com/huange888/yolov5_7.0_pyside6_active_learning/assets/118048444/2cbce1b7-c8b5-4495-9183-bd05800b9d43#id=DI5yH&originHeight=823&originWidth=1376&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
-# ÔËĞĞ½éÉÜ
+# è¿è¡Œä»‹ç»
 
-¸ÃÏîÄ¿ÊÇÊ¹ÓÃPySide6¿â¿ª·¢µÄÒ»¸ö»ùÓÚYOLOv5µÄÍ¼ÏñÊ¶±ğÓ¦ÓÃ³ÌĞò¡£<br />
-ÓÃ»§¿ÉÒÔÍ¨¹ı¸ÃÓ¦ÓÃ³ÌĞòÑ¡ÔñÍ¼ÏñÎÄ¼ş»òÉãÏñÍ·ÊµÊ±¼ì²âÄ¿±êÎïÌå£¬²¢ÏÔÊ¾¼ì²â½á¹û¡£<br />
-Í¬Ê±£¬¸ÃÓ¦ÓÃ³ÌĞò»¹Ö§³ÖÖ÷¶¯Ñ§Ï°¹¦ÄÜ£¬ÓÃ»§¿ÉÒÔÊÖ¶¯±ê¼ÇÒ»Ğ©´íÎóµÄ¼ì²â½á¹û£¬ÒÔ°ïÖúÄ£ĞÍ½øĞĞÓÅ»¯¡£<br />²»¹ıÄ¿Ç°ÉãÏñÍ·»¹Ã»¿ª·¢ºÃ
-Ö»ÄÜÊ¶±ğÍ¼Æ¬ Í¬Ê±¶ÔÓÚÊÓÆµÊ¶±ğ¿ÉÒÔÓÃÔ­Éú´úÂë½øĞĞ¼ì²â ÔÚqtÖĞÊµÏÖÔËĞĞ½ÏÂı  <br />ÔİÎ´¿¼ÂÇÊµÏÖÊÓÆµÊ¶±ğÄ£¿é
+è¯¥é¡¹ç›®æ˜¯ä½¿ç”¨PySide6åº“å¼€å‘çš„ä¸€ä¸ªåŸºäºYOLOv5çš„å›¾åƒè¯†åˆ«åº”ç”¨ç¨‹åºã€‚<br />
+ç”¨æˆ·å¯ä»¥é€šè¿‡è¯¥åº”ç”¨ç¨‹åºé€‰æ‹©å›¾åƒæ–‡ä»¶æˆ–æ‘„åƒå¤´å®æ—¶æ£€æµ‹ç›®æ ‡ç‰©ä½“ï¼Œå¹¶æ˜¾ç¤ºæ£€æµ‹ç»“æœã€‚<br />
+åŒæ—¶ï¼Œè¯¥åº”ç”¨ç¨‹åºè¿˜æ”¯æŒä¸»åŠ¨å­¦ä¹ åŠŸèƒ½ï¼Œç”¨æˆ·å¯ä»¥æ‰‹åŠ¨æ ‡è®°ä¸€äº›é”™è¯¯çš„æ£€æµ‹ç»“æœï¼Œä»¥å¸®åŠ©æ¨¡å‹è¿›è¡Œä¼˜åŒ–ã€‚<br />ä¸è¿‡ç›®å‰æ‘„åƒå¤´è¿˜æ²¡å¼€å‘å¥½
+åªèƒ½è¯†åˆ«å›¾ç‰‡ åŒæ—¶å¯¹äºè§†é¢‘è¯†åˆ«å¯ä»¥ç”¨åŸç”Ÿä»£ç è¿›è¡Œæ£€æµ‹ åœ¨qtä¸­å®ç°è¿è¡Œè¾ƒæ…¢  <br />æš‚æœªè€ƒè™‘å®ç°è§†é¢‘è¯†åˆ«æ¨¡å—
 
-# ÏîÄ¿½á¹¹
+# é¡¹ç›®ç»“æ„
 
-# ¹¦ÄÜÇø
+# åŠŸèƒ½åŒº
 
-## Æô¶¯°´Å¥ (Start Button)
+## å¯åŠ¨æŒ‰é’® (Start Button)
 
-- **°´Å¥Ãû³Æ**: `start_button`
-- **¹¦ÄÜ**: ÓÃÓÚÆô¶¯Ä³¸ö¹ı³Ì»ò³ÌĞò¡£
+- **æŒ‰é’®åç§°**: `start_button`
+- **åŠŸèƒ½**: ç”¨äºå¯åŠ¨æŸä¸ªè¿‡ç¨‹æˆ–ç¨‹åºã€‚
 
-## Í¼Æ¬ÉÏ´«°´Å¥ (Upload Image Button)
+## å›¾ç‰‡ä¸Šä¼ æŒ‰é’® (Upload Image Button)
 
-- **°´Å¥Ãû³Æ**: `upload_image_button`
-- **¹¦ÄÜ**: ÔÊĞíÓÃ»§ÉÏ´«Í¼Æ¬ÎÄ¼ş¡£
+- **æŒ‰é’®åç§°**: `upload_image_button`
+- **åŠŸèƒ½**: å…è®¸ç”¨æˆ·ä¸Šä¼ å›¾ç‰‡æ–‡ä»¶ã€‚
 
-## Ä£ĞÍÉÏ´«°´Å¥ (Upload PT Button)
+## æ¨¡å‹ä¸Šä¼ æŒ‰é’® (Upload PT Button)
 
-- **°´Å¥Ãû³Æ**: `upload_pt_button`
-- **¹¦ÄÜ**: ÓÃÓÚÉÏ´«Ä£ĞÍÎÄ¼ş£¬Í¨³£Ö¸µÄÊÇPyTorchÄ£ĞÍÎÄ¼ş¡£
+- **æŒ‰é’®åç§°**: `upload_pt_button`
+- **åŠŸèƒ½**: ç”¨äºä¸Šä¼ æ¨¡å‹æ–‡ä»¶ï¼Œé€šå¸¸æŒ‡çš„æ˜¯PyTorchæ¨¡å‹æ–‡ä»¶ã€‚
 
-## ÔËĞĞ±êÇ©°´Å¥ (Label Run Button)
+## è¿è¡Œæ ‡ç­¾æŒ‰é’® (Label Run Button)
 
-- **°´Å¥Ãû³Æ**: `Labelrun_button`
-- **¹¦ÄÜ**: ÓÃÓÚÆô¶¯Ò»¸ö±ê¼Ç»ò·ÖÀà¹ı³Ì¡£
+- **æŒ‰é’®åç§°**: `Labelrun_button`
+- **åŠŸèƒ½**: ç”¨äºå¯åŠ¨ä¸€ä¸ªæ ‡è®°æˆ–åˆ†ç±»è¿‡ç¨‹ã€‚
 
-## Ö÷¶¯Ñ§Ï°ÔËĞĞ°´Å¥ (Active Run Button)
+## ä¸»åŠ¨å­¦ä¹ è¿è¡ŒæŒ‰é’® (Active Run Button)
 
-- **°´Å¥Ãû³Æ**: `activeRun_button`
-- **¹¦ÄÜ**: ÓÃÓÚ¼¤»î»ò¿ªÊ¼Ò»¸öÊµÊ±ÔËĞĞµÄ¹ı³Ì¡£
+- **æŒ‰é’®åç§°**: `activeRun_button`
+- **åŠŸèƒ½**: ç”¨äºæ¿€æ´»æˆ–å¼€å§‹ä¸€ä¸ªå®æ—¶è¿è¡Œçš„è¿‡ç¨‹ã€‚
 
-## Ö÷¶¯Ñ§Ï°ÑµÁ·°´Å¥ (Active Train Button)
+## ä¸»åŠ¨å­¦ä¹ è®­ç»ƒæŒ‰é’® (Active Train Button)
 
-- **°´Å¥Ãû³Æ**: `activeTrain_button`
-- **¹¦ÄÜ**: ÓÃÓÚÆô¶¯Ä£ĞÍµÄ»îÔ¾ÑµÁ·½×¶Î¡£
+- **æŒ‰é’®åç§°**: `activeTrain_button`
+- **åŠŸèƒ½**: ç”¨äºå¯åŠ¨æ¨¡å‹çš„æ´»è·ƒè®­ç»ƒé˜¶æ®µã€‚
 
-## µ¼³öÄ£ĞÍ°´Å¥ (Export Button)
+## å¯¼å‡ºæ¨¡å‹æŒ‰é’® (Export Button)
 
-- **°´Å¥Ãû³Æ**: `export_button`
-- **¹¦ÄÜ**: ÓÃÓÚµ¼³öÊı¾İ»òÄ£ĞÍµ½ÎÄ¼ş¡£
+- **æŒ‰é’®åç§°**: `export_button`
+- **åŠŸèƒ½**: ç”¨äºå¯¼å‡ºæ•°æ®æˆ–æ¨¡å‹åˆ°æ–‡ä»¶ã€‚
 
-## Í£Ö¹½ø³Ì°´Å¥ (Stop Button)
+## åœæ­¢è¿›ç¨‹æŒ‰é’® (Stop Button)
 
-- **°´Å¥Ãû³Æ**: `stop_button`
-- **¹¦ÄÜ**: ÓÃÓÚÍ£Ö¹µ±Ç°ÔËĞĞµÄ¹ı³Ì¡£
+- **æŒ‰é’®åç§°**: `stop_button`
+- **åŠŸèƒ½**: ç”¨äºåœæ­¢å½“å‰è¿è¡Œçš„è¿‡ç¨‹ã€‚
 
-## ¹Ø±Õ´°¿Ú°´Å¥ (Close Button)
+## å…³é—­çª—å£æŒ‰é’® (Close Button)
 
-- **°´Å¥Ãû³Æ**: `close_button`
-- **¹¦ÄÜ**: ÓÃÓÚ¹Ø±ÕÓ¦ÓÃ³ÌĞò»òµ±Ç°´°¿Ú¡£
+- **æŒ‰é’®åç§°**: `close_button`
+- **åŠŸèƒ½**: ç”¨äºå…³é—­åº”ç”¨ç¨‹åºæˆ–å½“å‰çª—å£ã€‚
