@@ -1,0 +1,2 @@
+current_time: 2024-05-06_14-18-54  python detect.py --source data/images\2024-05-06_14-18-54_001.jpg --iou-thres 0.45 --conf-thres 0.25 --weight data/models/biology.pt
+current_time: 2024-05-06_14-23-51  python detect.py --source data/images\2024-05-06_14-23-51_cat.png --iou-thres 0.45 --conf-thres 0.25 --weight data/models/yolov5l.pt
