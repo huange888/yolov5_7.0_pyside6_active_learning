@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MainQt.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/anylabeling" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/biology.pt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blood_image" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/detect.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/export.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/models" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/requirements.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/runs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test1.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test2.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/train.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ui.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/utils" charset="GBK" />
+  </component>
+</project>
