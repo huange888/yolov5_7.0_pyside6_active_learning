@@ -1,5 +1,11 @@
 # 这个是我的开源 pyside6 + yolov5+active-learning项目，欢迎 star![395494A6.png](https://cdn.nlark.com/yuque/0/2024/png/34454554/1714980244561-4f46267d-25f0-4a03-9b8a-2bf4de7d3b58.png#averageHue=%2354472a&clientId=u04ab15bb-705b-4&from=paste&height=48&id=u2733e641&originHeight=48&originWidth=48&originalType=binary&ratio=1&rotation=0&showTitle=false&size=2823&status=done&style=none&taskId=u243c43ab-fa0c-4a3d-99b2-db8ba5a2e5f&title=&width=48) and follow!
+
+# 联系方式
+
+qq群：450562210 欢迎交流
+
 # 项目介绍
+
 我把一些文件给删掉了 例如segement 什么的 <br />可以在原生的yolov5 7.0重新安装<br />最主要的就是两个文件<br />分别是ui.py
 MainQt.py<br />直接运行MainQt.py即可<br />最主要的pt文件就是data/models/biology.pt<br />
 这是用yolov5框架+主动学习跑出来的外周血细胞的模型<br />目前精度0.8 精度较高<br />并且支持切换模型 切换到原生的yolov5m.pt
@@ -8,11 +14,15 @@ label train export
 停止进程按钮删掉<br />![](https://github.com/huange888/yolov5_7.0_pyside6_active_learning/assets/118048444/165a5c67-7a64-4cd3-8ed2-0292cab780e9#id=UtZd0&originHeight=823&originWidth=1376&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 # 运行环境
+
 ```python
-pip install -r requirements.txt
+pip
+install - r
+requirements.txt
 ```
 
 # 运行方法
+
 ```python
 python MainQt.py
 ```
