@@ -6,6 +6,10 @@ from PySide6.QtWidgets import QPushButton, QLineEdit, \
     QTextEdit, QFrame, QCheckBox
 
 
+# !/usr/bin/env python
+# coding=utf-8
+
+
 class UiMainWindow:
 
     def setupUi(self, main_window):

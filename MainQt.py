@@ -15,6 +15,9 @@ from PySide6.QtWidgets import QApplication, \
 from ui import UiMainWindow
 
 
+# !/usr/bin/env python
+# coding=utf-8
+
 class MainWindow(QMainWindow, UiMainWindow):
     def __init__(self):
         super().__init__()
