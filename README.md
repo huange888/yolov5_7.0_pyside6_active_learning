@@ -9,15 +9,12 @@ label train export
 
 # 运行环境
 ```python
-pip
-install - r
-requirements.txt
+pip install -r requirements.txt
 ```
 
 # 运行方法
 ```python
-python
-MainQt.py
+python MainQt.py
 ```
 # 项目截图
 ![](https://github.com/huange888/yolov5_7.0_pyside6_active_learning/assets/118048444/2cbce1b7-c8b5-4495-9183-bd05800b9d43#id=DI5yH&originHeight=823&originWidth=1376&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
